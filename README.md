@@ -11,7 +11,11 @@ The objective of this project is to build a regression model that predicts a mov
 ---
 
 ## 📂 Dataset
-Source: IMDb Top 1000 Movies Dataset (Kaggle)
+The dataset used in this project is the IMDb Top 1000 Movies dataset from Kaggle.
+
+You can download it from:
+https://www.kaggle.com/datasets/debanganghosh/imdb-dataset
+After downloading, upload the CSV file to Google Colab before running the notebook.
 
 Features used:
 - Released Year  
